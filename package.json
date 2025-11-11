@@ -1,0 +1,24 @@
+{
+  "name": "patekonlyprograms.github.io",
+  "version": "1.0.0",
+  "description": "Place to share my portfolio and also host some tools here for me to use",
+  "homepage": "https://github.com/patekOnlyPrograms/patekOnlyPrograms.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/patekOnlyPrograms/patekOnlyPrograms.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patekOnlyPrograms/patekOnlyPrograms.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.9.3"
+  }
+}
